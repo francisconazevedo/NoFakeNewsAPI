@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdxCqKNAGxL6a1yabhC8EKtCwhMVxAzEgzYWOobk1TUe3+LRdVksvvtNmM3jdmdCUF8gqur3G+dk2esZ8UK15g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francisco Azevedo\\source\\repos\\NoFakeNews\\NoFakeNews.API\\NoFakeNews.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco Azevedo\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Francisco Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\Francisco Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\Francisco Azevedo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
